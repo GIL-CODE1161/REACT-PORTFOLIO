@@ -1,10 +1,10 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
-import project5 from "../assets/projects/project-5.jpg";
-import project6 from "../assets/projects/project-6.jpg";
-import project7 from "../assets/projects/project-7.jpg";
+import project1 from "../assets/projects/project-1.png";
+import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
+import project6 from "../assets/projects/project-6.png";
+import project7 from "../assets/projects/project-7.png";
 import laptop from "../assets/projects/laptop.jpg";
 
 export const HERO_CONTENT = `Expert Front-end Developer with four years of expertise in front-end web application design, development, and maintenance. A 20% increase in page load times was measured and resulted in a rise in website conversion rates. Initiated and oversaw the rollout of a new front-end development system, resulting in a 20% boost in website performance and a 15% decrease in development time. adept at working in cross-functional teams and meeting deadlines and budgets for projects.`;
@@ -53,7 +53,7 @@ export const PROJECTS = [
   {
     title: "VirtualR Website UI",
     image: project5,
-    description: "The virtual video game app I developed is an interactive, highly immersive platform that transports players into vibrant, 3D worlds full of adventure, challenges, and social interactions. Designed to cater to both casual and competitive gamers, the app offers an engaging gameplay experience that combines cutting-edge technology with a seamless user interface.he user interface I developed for the Apple-inspired website embodies clean, minimalist aesthetics with a focus on intuitive usability, reflecting Apple's design philosophy.The layout is sleek and uncluttered,with ample white space to allow each element to stand out while ensuring the content remains the focal point.",
+    description: "The virtual video game app I developed is an interactive, highly immersive platform that transports players into vibrant, 3D worlds full of adventure, challenges, and social interactions. Designed to cater to both casual and competitive gamers, the app offers an engaging gameplay experience that combines cutting-edge technology with a seamless user interface.",
     technologies: ["HTML", "Tailwind CSS", "React", "Framer motion"],
   },
   {
